@@ -31,8 +31,8 @@ interests:
 education:
   courses:
   - course: PhD Game Studies
-	institution: IT University of Copenhagen
-	year: 2022 (expected)
+    institution: IT University of Copenhagen
+    year: 2022 (expected)
   - course: MSc Games
     institution: IT University of Copenhagen
     year: 2019
