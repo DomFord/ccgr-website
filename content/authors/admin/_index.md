@@ -50,7 +50,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  mailto:dofo@itu.dk
+  link: mailto:dofo@itu.dk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DomFord_
