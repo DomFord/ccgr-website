@@ -1,41 +1,47 @@
 ---
 # Display name
-title: Peach
+title: Dom Ford
 
 # Username (this should match the folder name)
 authors:
-- Peach
+- Dom Ford
 
 # Is this the primary user of the site?
 superuser: false
-
+​---
 # Role/position
 role: PhD Student
 
 # Organizations/Affiliations
 organizations:
 - name: IT University of Copenhagen
-  url: ""
+  url: "https://www.itu.dk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Ontology
-- Philosophy
-- Space
+- Myth
+- Monster
+- Space and place
+- Postcolonialism
+- Literary theory
+- Cultural theory
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Game Studies
+	institution: IT University of Copenhagen
+	year: 2022 (expected)
+  - course: MSc Games
+    institution: IT University of Copenhagen
+    year: 2019
+  - course: MA English Literary Studies
+    institution: University of Exeter
+    year: 2016
+  - course: BA (Hons) English
+    institution: University of Exeter
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +50,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  mailto:dofo@itu.dk
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/DomFord_
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.dk/citations?user=dv4EhC0AAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,8 +70,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Students
----
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+​---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+---
