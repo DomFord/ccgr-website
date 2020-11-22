@@ -8,7 +8,7 @@ authors:
 
 # Is this the primary user of the site?
 superuser: false
-​
+
 # Role/position
 role: PhD Student
 
@@ -71,7 +71,7 @@ email: ""
 user_groups:
 - PhD Students
 
-​---
+---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 ---
