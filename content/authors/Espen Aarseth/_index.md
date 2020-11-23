@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Bowser
+title: Espen Aarseth
 
 # Username (this should match the folder name)
 authors:
-- Bowser
+- Espen Aarseth
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,27 +15,28 @@ role: Professor
 # Organizations/Affiliations
 organizations:
 - name: IT University of Copenhagen
-  url: ""
+  url: "https://www.itu.dk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Ontology
-- Philosophy
-- Space
+- Ontological understanding of games
+- Games and narrative
+- Games and addiction
+- Games and geographical space
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#education:
+  #courses:
+  #- course: PhD in Artificial Intelligence
+    #institution: Stanford University
+    #year: 2012
+  #- course: MEng in Artificial Intelligence
+    #institution: Massachusetts Institute of Technology
+    #year: 2009
+  #- course: BSc in Artificial Intelligence
+    #institution: Massachusetts Institute of Technology
+    #year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +45,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: mailto:aarseth@itu.dk
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.dk/citations?hl=en&user=xxdwlx8AAAAJ
+- icon: external-link-alt
+  icon_pack: fas
+  link: https://pure.itu.dk/portal/da/persons/espen-aarseth(487cead7-277a-461f-9b82-9d6c4c18c276).html
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
