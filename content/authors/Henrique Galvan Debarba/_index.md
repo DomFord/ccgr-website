@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Sebastian Risi
+title: Henrique Galvan Debarba
 
 # Username (this should match the folder name)
 authors:
-- Sebastian Risi
+- Henrique Galvan Debarba
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -21,14 +21,11 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Neuroevolution
-- Neural networks
-- Evolutionary algorithms
-- Evolutionary robotics
-- Generative and developmental systems
-- Procedural content generation
-- Game AI
-- Computational intelligence
+- Virtual and augmented reality
+- Motion capture
+- Human-centered computing
+- Human-computer interaction
+
 
 #education:
   #courses:
@@ -49,16 +46,13 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:sebr@itu.dk
+  link: mailto:hend@itu.dk
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.dk/citations?hl=en&user=xxdwlx8AAAAJ
+  link: https://scholar.google.dk/citations?hl=en&user=ZutRbb0AAAAJ
 - icon: external-link-alt
   icon_pack: fas
-  link: https://pure.itu.dk/portal/da/persons/sebastian-risi(a420ffb3-2ca6-4925-a25f-baaa5228fc15).html
-- icon: house-user
-  icon_pack: fas
-  link: http://sebastianrisi.com/
+  link: https://pure.itu.dk/portal/da/persons/henrique-galvan-debarba(4ac798ea-a458-473f-ba46-2e7515cf72e4).html
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -75,5 +69,4 @@ user_groups:
 - Professors
 ---
 
-My research interests include biologically-inspired computation such as evolutionary robotics, self-organizing systems, indirect encodings like [HyperNEAT](http://eplex.cs.ucf.edu/hyperNEATpage/), and design automation.
- I am also interested in research at the intersection of AI and games, which can make our technologies accessible to a broader audience. To this end, I am currently leading the development of a new evolutionary content-generating Facebook game called [Petalz](https://apps.facebook.com/petalzgame/).
+Current research interests: Perception of the self and of self-produced actions in immersive virtual reality; haptic interaction and manipulation of intangible objects; immersive technology in playful experiences; interaction design and visualization
