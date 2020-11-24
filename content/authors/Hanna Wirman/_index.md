@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Sebastian Risi
+title: Hanna Wirman
 
 # Username (this should match the folder name)
 authors:
-- Sebastian Risi
+- Hanna Wirman
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -21,14 +21,21 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Neuroevolution
-- Neural networks
-- Evolutionary algorithms
-- Evolutionary robotics
-- Generative and developmental systems
-- Procedural content generation
-- Game AI
-- Computational intelligence
+- Game design
+- Game cultures
+- New media
+- Critical theory
+- Ethnography
+- Design research
+- Gender
+- Identity
+- Co-creativity
+- Co-design
+- Participatory cultures
+- Fan cultures
+- Mobile games
+- Pervasive games
+- Non-human animal play
 
 #education:
   #courses:
@@ -49,16 +56,16 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:sebr@itu.dk
+  link: mailto:wirman@itu.dk
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.dk/citations?hl=en&user=xxdwlx8AAAAJ
+  link: https://scholar.google.dk/citations?user=IhTRvGMAAAAJ
 - icon: external-link-alt
   icon_pack: fas
-  link: https://pure.itu.dk/portal/da/persons/sebastian-risi(a420ffb3-2ca6-4925-a25f-baaa5228fc15).html
+  link: https://pure.itu.dk/portal/en/persons/hanna-elina-wirman(9ba013db-4c4d-41dd-be12-dbe188f67f29).html 
 - icon: house-user
   icon_pack: fas
-  link: http://sebastianrisi.com/
+  link: http://www.hannawirman.net/ 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
