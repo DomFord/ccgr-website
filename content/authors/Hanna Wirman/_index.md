@@ -27,15 +27,6 @@ interests:
 - Critical theory
 - Ethnography
 - Design research
-- Gender
-- Identity
-- Co-creativity
-- Co-design
-- Participatory cultures
-- Fan cultures
-- Mobile games
-- Pervasive games
-- Non-human animal play
 
 #education:
   #courses:
@@ -82,5 +73,4 @@ user_groups:
 - Professors
 ---
 
-My research interests include biologically-inspired computation such as evolutionary robotics, self-organizing systems, indirect encodings like [HyperNEAT](http://eplex.cs.ucf.edu/hyperNEATpage/), and design automation.
- I am also interested in research at the intersection of AI and games, which can make our technologies accessible to a broader audience. To this end, I am currently leading the development of a new evolutionary content-generating Facebook game called [Petalz](https://apps.facebook.com/petalzgame/).
+Current research interests: Gender, Identity, Co-creativity, Co-design, Participatory cultures, Fan cultures, Mobile games, Pervasive games, Non-human animal play.
