@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 5
 
-title: Welcome
+title: About the Center
 ---
 
 The Center for Computer Games Research was formally established in 2003, building on ongoing work in the area at the ITU since its founding in 1999. The center houses a multi-disciplinary research group with backgrounds in the Arts, Humanities, Social Sciences and Computer Science. The group performs basic and applied research, approaching games from a variety of perspectives including theoretical analysis, design, ethnographic and qualitative approaches, AI, user (cognitive and affective) modeling and player experience.
