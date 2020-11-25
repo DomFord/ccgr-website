@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Sebastian Risi
+title: Paweł Grabarczyk
 
 # Username (this should match the folder name)
 authors:
-- Sebastian Risi
+- Paweł Grabarczyk
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -21,14 +21,11 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Neuroevolution
-- Neural networks
-- Evolutionary algorithms
-- Evolutionary robotics
-- Generative and developmental systems
-- Procedural content generation
-- Game AI
-- Computational intelligence
+- Philosophy of games
+- Game ontology
+- Representation
+- Virtual reality
+- Demoscene
 
 #education:
   #courses:
@@ -49,16 +46,13 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:sebr@itu.dk
+  link: mailto:pawg@itu.dk
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.dk/citations?hl=en&user=xxdwlx8AAAAJ
+  link: https://scholar.google.dk/citations?hl=en&user=VkWj2_gAAAAJ
 - icon: external-link-alt
   icon_pack: fas
-  link: https://pure.itu.dk/portal/da/persons/sebastian-risi(a420ffb3-2ca6-4925-a25f-baaa5228fc15).html
-- icon: house-user
-  icon_pack: fas
-  link: http://sebastianrisi.com/
+  link: https://pure.itu.dk/portal/da/persons/pawel-grabarczyk(42147e05-f94c-471d-a889-c57a01e4bdd0).html 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -75,5 +69,4 @@ user_groups:
 - Professors
 ---
 
-My research interests include biologically-inspired computation such as evolutionary robotics, self-organizing systems, indirect encodings like [HyperNEAT](http://eplex.cs.ucf.edu/hyperNEATpage/), and design automation.
- I am also interested in research at the intersection of AI and games, which can make our technologies accessible to a broader audience. To this end, I am currently leading the development of a new evolutionary content-generating Facebook game called [Petalz](https://apps.facebook.com/petalzgame/).
+Lorem ipsum.
