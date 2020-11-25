@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Sebastian Risi
+title: Mathias Kristian Kyndlo Löwe
 
 # Username (this should match the folder name)
 authors:
-- Sebastian Risi
+- Mathias Kristian Kyndlo Löwe
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,14 +21,22 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Neuroevolution
-- Neural networks
+- Machine learning
+- Model-based machine learning
+- Artificial intelligence
+- Bayesian optimization
+- (Variational) autoencoders
+- Variational inference
+- Generative models
+- Monte Carlo sampling methods
+- General linear models
+- Generalized linear models
+- Gaussian mixture models
 - Evolutionary algorithms
-- Evolutionary robotics
-- Generative and developmental systems
-- Procedural content generation
-- Game AI
-- Computational intelligence
+- Incorporating user preferences in AI
+- Time series model prediction
+- Gradient-free optimization techniques
+- Illumination of search-spaces
 
 #education:
   #courses:
@@ -49,16 +57,10 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:sebr@itu.dk
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.dk/citations?hl=en&user=xxdwlx8AAAAJ
+  link: mailto:malw@itu.dk
 - icon: external-link-alt
   icon_pack: fas
-  link: https://pure.itu.dk/portal/da/persons/sebastian-risi(a420ffb3-2ca6-4925-a25f-baaa5228fc15).html
-- icon: house-user
-  icon_pack: fas
-  link: http://sebastianrisi.com/
+  link: https://pure.itu.dk/portal/da/persons/mathias-kristian-kyndlo-loewe(cff643b7-769d-44a6-a8f2-860d5fff4ede).html
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -72,8 +74,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Professors
+- PhD Students
 ---
 
-My research interests include biologically-inspired computation such as evolutionary robotics, self-organizing systems, indirect encodings like [HyperNEAT](http://eplex.cs.ucf.edu/hyperNEATpage/), and design automation.
- I am also interested in research at the intersection of AI and games, which can make our technologies accessible to a broader audience. To this end, I am currently leading the development of a new evolutionary content-generating Facebook game called [Petalz](https://apps.facebook.com/petalzgame/).
+Current research interests: Variational autoencoders, generative models, and mixture models for timeseries datasets.
