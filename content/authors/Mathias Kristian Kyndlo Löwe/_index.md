@@ -25,18 +25,7 @@ interests:
 - Model-based machine learning
 - Artificial intelligence
 - Bayesian optimization
-- (Variational) autoencoders
-- Variational inference
-- Generative models
-- Monte Carlo sampling methods
-- General linear models
-- Generalized linear models
-- Gaussian mixture models
-- Evolutionary algorithms
-- Incorporating user preferences in AI
-- Time series model prediction
-- Gradient-free optimization techniques
-- Illumination of search-spaces
+
 
 #education:
   #courses:
@@ -78,3 +67,16 @@ user_groups:
 ---
 
 Current research interests: Variational autoencoders, generative models, and mixture models for timeseries datasets.
+
+- (Variational) autoencoders
+- Variational inference
+- Generative models
+- Monte Carlo sampling methods
+- General linear models
+- Generalized linear models
+- Gaussian mixture models
+- Evolutionary algorithms
+- Incorporating user preferences in AI
+- Time series model prediction
+- Gradient-free optimization techniques
+- Illumination of search-spaces
