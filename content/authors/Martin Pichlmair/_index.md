@@ -1,16 +1,17 @@
 ---
 # Display name
-title: Sebastian Risi
+title: Martin Pichlmair
 
 # Username (this should match the folder name)
 authors:
-- Sebastian Risi
+- Martin Pichlmair
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: Associate Professor
+role: Head of Games Programme
 
 # Organizations/Affiliations
 organizations:
@@ -21,14 +22,15 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Neuroevolution
-- Neural networks
-- Evolutionary algorithms
-- Evolutionary robotics
-- Generative and developmental systems
-- Procedural content generation
-- Game AI
-- Computational intelligence
+- Game design
+- Interaction design
+- Design theory and practice
+- Making
+- Indie gaming
+- Entrepreneurship
+- Game technologies
+- VR
+- Simulation
 
 #education:
   #courses:
@@ -49,16 +51,16 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:sebr@itu.dk
+  link: mailto:mpic@itu.dk
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.dk/citations?hl=en&user=xxdwlx8AAAAJ
+  link: https://scholar.google.dk/citations?hl=en&user=weShDE0AAAAJ
 - icon: external-link-alt
   icon_pack: fas
-  link: https://pure.itu.dk/portal/da/persons/sebastian-risi(a420ffb3-2ca6-4925-a25f-baaa5228fc15).html
+  link: https://pure.itu.dk/portal/da/persons/martin-pichlmair(ddcdfda8-c5ea-4e67-b0ea-21ba86966197).html 
 - icon: house-user
   icon_pack: fas
-  link: http://sebastianrisi.com/
+  link: http://vertical-progress.net/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -75,5 +77,4 @@ user_groups:
 - Professors
 ---
 
-My research interests include biologically-inspired computation such as evolutionary robotics, self-organizing systems, indirect encodings like [HyperNEAT](http://eplex.cs.ucf.edu/hyperNEATpage/), and design automation.
- I am also interested in research at the intersection of AI and games, which can make our technologies accessible to a broader audience. To this end, I am currently leading the development of a new evolutionary content-generating Facebook game called [Petalz](https://apps.facebook.com/petalzgame/).
+Current research interests: Design Thinking, Design Methods, Gameplay and Simulation, Experimental Design, Game Design
