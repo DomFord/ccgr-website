@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 role:
-- Associate Professor & Head of MSc Games Programme
+- Associate Professor
 
 
 # Organizations/Affiliations
