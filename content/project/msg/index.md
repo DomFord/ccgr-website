@@ -9,7 +9,7 @@ categories: []
 date: 2020-11-25T12:14:34+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://blogit.itu.dk/msgproject/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -40,6 +40,6 @@ url_video: ""
 slides: ""
 ---
 
-The Making Sense of Games project (MSG) is funded by the European Research Council (ERC) under the EU’s Horizon 2020 Research and Innovation programme. The project will build a methodology for the humanistic study of games, and develop a theory of how ludic meaning is produced. It combines fundamental hermeneutic approaches (semiotics, reception theory, reader response, theories of representation, narrative theory) with recent theories of ludic structure (game ontology) into a hermeneutic theory of game meaning, which can be used as a set of tools and concepts for game analysis and criticism. [Read more here.](https://blogit.itu.dk/msgproject/)
+The Making Sense of Games project (MSG) is funded by the European Research Council (ERC) under the EU's Horizon 2020 Research and Innovation programme. The project will build a methodology for the humanistic study of games, and develop a theory of how ludic meaning is produced. It combines fundamental hermeneutic approaches (semiotics, reception theory, reader response, theories of representation, narrative theory) with recent theories of ludic structure (game ontology) into a hermeneutic theory of game meaning, which can be used as a set of tools and concepts for game analysis and criticism. [Read more here.](https://blogit.itu.dk/msgproject/)
 
 Contact: [Espen Aarseth](https://game.itu.dk/members/espen-aarseth/)
