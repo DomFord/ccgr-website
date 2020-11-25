@@ -10,8 +10,10 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor
-role: Head of Games Programme
+role:
+- Associate Professor
+- Head of Games Programme
+
 
 # Organizations/Affiliations
 organizations:
