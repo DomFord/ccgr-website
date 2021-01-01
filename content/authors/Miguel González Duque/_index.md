@@ -14,18 +14,20 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
+- name: Creative AI Cluster
+  url: "/groups/creativeai"
 - name: IT University of Copenhagen
   url: "https://www.itu.dk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My work focuses on applications of Bayesian Statistics.
 
 interests:
-- Imitation learning
-- Deep learning
-- Player modelling
+- Machine Learning and AI
+- Statistical Modeling
+- Bayesian Statistics
 - Real-time strategy games
-- Machine learning and AI
+- Dynamic Difficulty Adjustment
 
 #education:
   #courses:
@@ -72,4 +74,4 @@ user_groups:
 - PhD Students
 ---
 
-Current research interests: Bayesian methods, Games for Rehabilitation, Reinforcement Learning, Adversarial Learning, Generative models, Procedural Content Generation, Computer Art and AI Ethics.
+Current research interests: Bayesian Statistics, Generative models, Procedural Content Generation and Computer Art.
