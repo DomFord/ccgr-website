@@ -1,75 +1,48 @@
 ---
-# Display name
-title: Dom Ford	
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: PhD Student
-
-# Organizations/Affiliations
 organizations:
-- name: IT University of Copenhagen
-  url: "https://www.itu.dk/"
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: IT University of Copenhagen
+    url: https://www.itu.dk/
+superuser: true
+authors:
+  - admin
+title: Dom Ford
+role: PhD Student
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-- Myth
-- Monster
-- Space and place
-- Postcolonialism
-- Literary theory
-- Cultural theory
-
+  - Myth
+  - Monsters
+  - Space and place
+  - Postcolonialism
+  - Literary theory
+  - Cultural theory
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:dofo@itu.dk
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/DomFord_
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.dk/citations?user=dv4EhC0AAAAJ&hl=en
 education:
   courses:
-  - course: PhD Game Studies
-    institution: IT University of Copenhagen
-    year: 2022 (expected)
-  - course: MSc Games
-    institution: IT University of Copenhagen
-    year: 2019
-  - course: MA English Literary Studies
-    institution: University of Exeter
-    year: 2016
-  - course: BA (Hons) English
-    institution: University of Exeter
-    year: 2015
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:dofo@itu.dk
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/DomFord_
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.dk/citations?user=dv4EhC0AAAAJ&hl=en
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD Game Studies
+      institution: IT University of Copenhagen
+      year: 2022 (expected)
+    - course: MSc Games
+      institution: IT University of Copenhagen
+      year: 2019
+    - course: MA English Literary Studies
+      institution: University of Exeter
+      year: 2016
+    - course: BA (Hons) English
+      institution: University of Exeter
+      year: 2015
 email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+  - PhD Students
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
