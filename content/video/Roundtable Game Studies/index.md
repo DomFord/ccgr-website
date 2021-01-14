@@ -14,7 +14,7 @@ date: 2020-12-06T16:14:10+01:00
 draft: false
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://youtu.be/Y0dPoNLpWQ8"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -45,6 +45,8 @@ url_video: ""
 slides: ""
 
 ---
+
+{{< youtube Y0dPoNLpWQ8 >}}
 
 Why do we study games? What is the field of 'game studies'? How does research into games help us better understand the changing nature of games in times of chaos, such as the global pandemic?
 
