@@ -51,7 +51,9 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = ".portrait {
+border-radius: initial !important;
+}"
 
  # CSS class.
  css_class = ""
