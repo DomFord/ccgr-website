@@ -22,7 +22,7 @@ subtitle = ""
                  "Visitors",
                  "Alumni"]
 
-[design]
+[design] columns = "2"
   # Show user's social networking links? (true/false)
   show_social = true
 
