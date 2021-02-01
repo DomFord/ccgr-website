@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla sem mattis magna congue, vitae facilisis libero auctor. Aliquam laoreet ligula quis sem pharetra congue. Duis porttitor fermentum aliquam. Praesent eget leo nisl. Duis in ultrices turpis. Duis ac faucibus libero. Aenean mauris tortor, vestibulum id est a, porta iaculis elit. Mauris eu lacinia arcu, viverra euismod massa. Mauris vitae justo a neque feugiat bibendum. Vivamus vulputate, mauris pulvinar aliquam gravida, massa purus lobortis turpis, laoreet malesuada nibh risus id ex. Suspendisse cursus turpis tincidunt tellus iaculis, nec vulputate sapien hendrerit. Mauris fermentum quis felis in maximus. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
