@@ -5,7 +5,7 @@ title: "Gordon Freeman on Shooting Bad Guys"
 event: Gordon Freeman Lecture
 event_url:
 location: ITU
-address: Rued Langgaards Vej
+address:
   street:
   city:
   region:
