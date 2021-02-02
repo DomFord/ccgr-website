@@ -45,3 +45,12 @@ The 'European Training Network for Chemical Engineering Immersive Learning' (CHA
 [Read more here.](https://charming-etn.eu/)
 
 Contact: [Daniel Cermak-Sassenrath](https://game.itu.dk/daniel-cermak-sassenrath/)
+
+# Current Members
+
+[Daniel Cermak-Sassenrath](/author/daniel-cermak-sassenrath/) (Supervisor)
+
+[Nina Croitoru](/author/nina-croitoru/)
+
+[Sílvia Fornós](/author/silvia-fornos/)
+
