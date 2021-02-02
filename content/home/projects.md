@@ -9,6 +9,7 @@ title = "Projects"
 subtitle = ""
 
 [content]
+
   # Page type to display. E.g. project.
   page_type = "project"
 
@@ -34,6 +35,7 @@ subtitle = ""
   #   tag = "Demo"
 
 [design]
+
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 
