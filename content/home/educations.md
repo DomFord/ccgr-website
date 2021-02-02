@@ -16,7 +16,7 @@ title:
 subtitle:
 
 design:
-  columns: "2"
+  columns: "1"
   background:
     image: headers/bubbles-wide.jpg
     image_darken: 0.6
