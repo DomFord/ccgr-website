@@ -16,7 +16,7 @@ title:
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: headers/bubbles-wide.jpg
     image_darken: 0.6
@@ -28,6 +28,12 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
+# Master's Education
+
+Our two-year MSc programme in Games provides you with technical and social science knowledge on how computer games work, how they are designed and how they have a social impact on us. You will work with some of the world’s leading game researchers, and you will have the opportunity to become a computer games expert yourself. We currently offer two tracks: Game Technology, with a focus on programming, and Game Design and Theory.
+
+More information about the games programme can be found [here](http://en.itu.dk/Programmes/MSc-Programmes/Games).
+
 # PhD Education
 
 The Center for Computer Games Research has been home to a number of International PhD fellows since the first dissertation was completed in 2003. For more information on the ITU's upcoming PhD calls please visit the university's main [information site](http://itu.dk/en/Forskning/Phd-uddannelsen). We also run special PhD level courses on the subject of computer games and those are publicized via our [events page](https://game.itu.dk/index.php/Events).
@@ -36,8 +42,3 @@ The Center for Computer Games Research only accepts applicants whose research in
 
 Visiting PhD students from other institutions are welcome depending on capacity and relevance to the research of at least one faculty member.
 
-# Master's Education
-
-Our two-year MSc programme in Games provides you with technical and social science knowledge on how computer games work, how they are designed and how they have a social impact on us. You will work with some of the world’s leading game researchers, and you will have the opportunity to become a computer games expert yourself. We currently offer two tracks: Game Technology, with a focus on programming, and Game Design and Theory.
-
-More information about the games programme can be found [here](http://en.itu.dk/Programmes/MSc-Programmes/Games).
