@@ -14,6 +14,8 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
+- name: Making Sense of Games
+  url: "/project/msg"
 - name: IT University of Copenhagen
   url: "https://www.itu.dk/"
 

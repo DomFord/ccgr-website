@@ -14,6 +14,8 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
+- name: Culture and Technology (CULT) Research Group
+  url: "https://cult.itu.dk/"
 - name: IT University of Copenhagen
   url: "https://www.itu.dk/"
 
