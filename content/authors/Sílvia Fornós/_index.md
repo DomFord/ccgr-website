@@ -15,7 +15,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: CHARMING Project
-  url: "project/CHARMING/"
+  url: "/project/CHARMING/"
 - name: IT University of Copenhagen
   url: "https://www.itu.dk/"
 

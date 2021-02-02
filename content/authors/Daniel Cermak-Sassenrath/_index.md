@@ -15,7 +15,7 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
 - name: CHARMING Project
-  url: "project/charming/"
+  url: "/project/charming/"
 - name: IT University of Copenhagen
   url: "https://www.itu.dk/"
 

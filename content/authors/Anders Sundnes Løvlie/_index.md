@@ -15,7 +15,7 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
 - name: The GIFT Project
-  url: "project/gift/"
+  url: "/project/gift/"
 - name: IT University of Copenhagen
   url: "https://www.itu.dk/"
 
