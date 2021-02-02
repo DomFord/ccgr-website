@@ -24,8 +24,6 @@ subtitle = ""
 
 [design]
 
-columns: "1"
-
   # Show user's social networking links? (true/false)
   show_social = true
 
