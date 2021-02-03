@@ -62,6 +62,8 @@ Contact: [Espen Aarseth](https://game.itu.dk/members/espen-aarseth/)
 
 # Former Members
 
-Joleen Blom
+Joleen Blom (PhD Student)
 
-Michael Debus
+Michael Debus (PhD Student)
+
+Ryan Wright (Research Assistant)
