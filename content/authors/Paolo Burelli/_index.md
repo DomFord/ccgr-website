@@ -69,6 +69,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Professors
+- CCGR Members
 ---
 
 Current research interests: Live game operations, Imitation Learning, Player Modelling, Churn Prediction and Customer Lifetime Value Prediction.

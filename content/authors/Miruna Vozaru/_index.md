@@ -65,6 +65,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Students
+- CCGR Members
 ---
 
 Current research interests: Player game communication and interaction, Game segmentation, Game analysis frameworks

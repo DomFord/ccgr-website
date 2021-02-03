@@ -75,6 +75,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Professors
+- CCGR Members
 ---
 
 Current research interests: Games, culture, social media, transgressive aesthetics, and affect and emotion, and how these concepts affect each other.

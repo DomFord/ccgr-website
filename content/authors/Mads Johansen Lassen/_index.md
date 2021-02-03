@@ -62,6 +62,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Students
+- CCGR Members
 ---
 
 Describing and generating elusive game properties such as Game Feel, Juiciness and Friction in prototypes. What reinforcement learning on games, can teach us about games.

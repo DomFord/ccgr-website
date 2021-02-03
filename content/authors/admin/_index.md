@@ -42,7 +42,8 @@ education:
       year: 2015
 email: "dofo@itu.dk"
 user_groups:
-  - PhD Students
+  - PhD Students	
+  - CCGR Members
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

@@ -72,6 +72,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Students
+- CCGR Members
 ---
 
 Current research interests: Bayesian Statistics, Generative models, Procedural Content Generation and Computer Art.

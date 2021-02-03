@@ -67,6 +67,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Professors
+- CCGR Members
 ---
 
 Current research interests: Perception of the self and of self-produced actions in immersive virtual reality; haptic interaction and manipulation of intangible objects; immersive technology in playful experiences; interaction design and visualization

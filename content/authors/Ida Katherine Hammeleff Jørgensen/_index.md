@@ -64,6 +64,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Postdoctoral Researchers
+- CCGR Members
 ---
 
 Ida's current research interests revolves around how games represent and become meaningful to players; adaptations and game versions; games as media. Other research interests revolves around understanding play in non-human animals.

@@ -75,6 +75,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Professors
+- CCGR Members
 ---
 
 Current research interests: Design Thinking, Design Methods, Gameplay and Simulation, Experimental Design, Game Design
