@@ -40,7 +40,7 @@ education:
     - course: BA (Hons) English
       institution: University of Exeter
       year: 2015
-email: ""
+email: "dofo@itu.dk"
 user_groups:
   - PhD Students
 ---
