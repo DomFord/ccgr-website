@@ -4,7 +4,7 @@ organizations:
     url: https://www.itu.dk
 superuser: true
 authors:
-  - admin
+  - Dom Ford
 title: Dom Ford
 role: PhD Fellow
 bio: I'm particularly interested in myth, monsters, spatiality and the
