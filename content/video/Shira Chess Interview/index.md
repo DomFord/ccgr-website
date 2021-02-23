@@ -3,7 +3,7 @@
 
 title: "Gaming Circles, Women's Leisure and Lulzing Medusa: Shira Chess interviewed by Torill Mortensen"
 summary: "Torill Mortensen interviews Shira Chess about her latest book, Play Like a Feminist. Their wide-ranging discussion takes us through the core themes of the book and beyond, including women's leisure, the role of games and play in feminism and vice versa, transgressive play, feminist protest, and the potential of gaming circles."
-authors: [admin, Torill Mortensen, Shira Chess]
+authors: [Dom Ford, Torill Mortensen, Shira Chess]
 tags: []
 categories: []
 date: 2020-12-06T16:14:10+01:00
