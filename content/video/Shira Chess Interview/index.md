@@ -10,7 +10,7 @@ date: 2020-12-06T16:14:10+01:00
 draft: false
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://youtu.be/cO5AG62AKFc"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
