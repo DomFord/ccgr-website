@@ -5,7 +5,7 @@ title: "Roundtable Discussion - What's the point of game studies?"
 summary: "Why do we study games? What is the field of 'game studies'? How does research into games help us better understand the changing nature of games in times of chaos, such as the global pandemic?
 
 In this roundtable discussion, we try to answer these questions and more from a variety of angles. Enjoy a wide-ranging discussion on what game studies is, what it can offer us, and how it has helped us to better understand the role of games in society."
-authors: [admin, Hanna Wirman, Torill Mortensen, Paweł Grabarczyk, Daniel Cermak-Sassenrath]
+authors: [Dom Ford, Hanna Wirman, Torill Mortensen, Paweł Grabarczyk, Daniel Cermak-Sassenrath]
 tags: []
 categories: []
 date: 2020-12-06T16:14:10+01:00
@@ -48,7 +48,7 @@ Why do we study games? What is the field of 'game studies'? How does research in
 
 In this roundtable discussion, we try to answer these questions and more from a variety of angles. Enjoy a wide-ranging discussion on what game studies is, what it can offer us, and how it has helped us to better understand the role of games in society.
 
-Hosted by Dom Ford, a PhD student at the IT University of Copenhagen's Center for Computer Games Research. Joined by Associate Professors Daniel Cermak-Sassenrath, Hanna Wirman and Torill Mortensen from the Center for Computer Games Research, and also by Associate Professor Paweł Grabarczyk from the IT University's Center for Computing Education Research.
+Hosted by {{% mention "Dom Ford" %}}, a PhD student at the IT University of Copenhagen's Center for Computer Games Research. Joined by Associate Professors {{% mention "Daniel Cermak-Sassenrath" %}}, {{% mention "Hanna Wirman" %}} and {{% mention "Torill Mortensen" %}} from the Center for Computer Games Research, and also by Associate Professor {{% mention "Paweł Grabarczyk" %}} from the IT University's Center for Computing Education Research.
 
 
 
