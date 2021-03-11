@@ -8,7 +8,4 @@ design:
 
 # ... Put Your Section Options Here (title etc.) ...
 ```
-
-```
 {{< figure src="logo.png" >}}
-```
