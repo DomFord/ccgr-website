@@ -20,7 +20,7 @@ design:
   columns: "1"
   background:
     image: logo.png
-  image_darken: 0
+    image_darken: 0
 ​    image_parallax: false
 ​    image_position: center
 ​    image_size: contain
@@ -28,7 +28,5 @@ design:
   spacing:
   padding: ["20px", "0", "20px", "0"]
 
----
 
-{{< figure src="logo.png" >}}
 
