@@ -51,4 +51,3 @@ hero_media = "logo.png"
   # label = ''
 
 +++
-
