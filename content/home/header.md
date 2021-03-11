@@ -23,7 +23,7 @@ design:
     image_darken: 0.6
     image_parallax: true
     image_position: center
-    image_size: cover
+    image_size: contain
     text_color_light: true
   spacing:
 
