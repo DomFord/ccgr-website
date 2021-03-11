@@ -17,14 +17,8 @@ title:
 subtitle:
 
 #design:
- # columns: "1"
-  #background:
-   # image: logo.png
-   # image_darken: 0
-​   # image_parallax: false
-​   # image_position: center
-​   # image_size: contain
-​   # text_color_light: true
+ columns: "1"
+
 
 ---
 
