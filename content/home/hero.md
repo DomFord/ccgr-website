@@ -4,7 +4,6 @@ widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 01  # Order that this section will appear.
-
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
@@ -37,19 +36,19 @@ hero_media = "logo.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = ""
-  label = ""
-  icon_pack = ""
-  icon = ""
+# [cta]
+  # url = ""
+  # label = ""
+  # icon_pack = ""
+  # icon = ""
 
-[cta_alt]
-  url = ""
-  label = ""
+ # [cta_alt]
+  # url = ""
+  # label = ""
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = ''
+# [cta_note]
+  # label = ''
 
 +++
 
