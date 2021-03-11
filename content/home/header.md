@@ -25,6 +25,5 @@ design:
 ​    image_position: center
 ​    image_size: contain
 ​    text_color_light: true
-  padding: ["20px", "0", "20px", "0"]
 
 ---
