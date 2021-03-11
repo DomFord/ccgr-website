@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Anders Sundnes Løvlie
+title: Løvlie, Anders Sundnes
 
 # Username (this should match the folder name)
 authors:
-- Anders Sundnes Løvliei
+- Anders Sundnes Løvlie
 
 # Is this the primary user of the site?
 superuser: false

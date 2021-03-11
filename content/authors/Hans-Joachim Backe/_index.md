@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hans-Joachim Backe
+title: Backe, Hans-Joachim
 
 # Username (this should match the folder name)
 authors:

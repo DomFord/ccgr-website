@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sílvia Fornós
+title: Fornós, Sílvia
 
 # Username (this should match the folder name)
 authors:

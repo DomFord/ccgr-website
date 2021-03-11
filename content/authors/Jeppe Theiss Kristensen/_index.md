@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jeppe Theiss Kristensen
+title: Kristensen, Jeppe Theiss
 
 # Username (this should match the folder name)
 authors:

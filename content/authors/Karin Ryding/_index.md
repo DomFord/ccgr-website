@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Karin Ryding
+title: Ryding, Karin
 
 # Username (this should match the folder name)
 authors:

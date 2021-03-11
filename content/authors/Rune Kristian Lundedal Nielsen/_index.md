@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rune Kristian Lundedal Nielsen
+title: Nielsen, Rune Kristian Lundedal
 
 # Username (this should match the folder name)
 authors:

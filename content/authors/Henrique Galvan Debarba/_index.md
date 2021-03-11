@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Henrique Galvan Debarba
+title: Debarba, Henrique Galvan
 
 # Username (this should match the folder name)
 authors:

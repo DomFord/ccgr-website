@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nina Patricia Houe
+title: Houe, Nina Patricia
 
 # Username (this should match the folder name)
 authors:

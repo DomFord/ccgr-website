@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nina Croitoru
+title: Croitoru, Nina
 
 # Username (this should match the folder name)
 authors:

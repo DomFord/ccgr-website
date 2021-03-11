@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Daniel Cermak-Sassenrath
+title: Cermak-Sassenrath, Daniel
 
 # Username (this should match the folder name)
 authors:

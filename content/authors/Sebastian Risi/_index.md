@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sebastian Risi
+title: Risi, Sebastian
 
 # Username (this should match the folder name)
 authors:

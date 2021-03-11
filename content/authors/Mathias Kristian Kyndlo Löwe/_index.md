@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mathias Kristian Kyndlo Löwe
+title: Löwe, Mathias Kristian Kyndlo
 
 # Username (this should match the folder name)
 authors:

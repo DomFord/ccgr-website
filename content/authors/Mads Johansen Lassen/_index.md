@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mads Johansen Lassen
+title: Lassen, Mads Johansen
 
 # Username (this should match the folder name)
 authors:

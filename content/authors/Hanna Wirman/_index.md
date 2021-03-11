@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - Hanna Wirman
-title: Hanna Wirman
+title: Wirman, Hanna
 role: Associate Professor
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and

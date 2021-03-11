@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Martin Pichlmair
+title: Pichlmair, Martin
 
 # Username (this should match the folder name)
 authors:

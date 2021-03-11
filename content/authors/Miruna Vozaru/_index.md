@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Miruna Vozaru
+title: Vozaru, Miruna
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Miguel Sicart
+title: Sicart, Miguel
 
 # Username (this should match the folder name)
 authors:

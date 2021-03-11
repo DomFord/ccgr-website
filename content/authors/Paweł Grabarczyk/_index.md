@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Paweł Grabarczyk
+title: Grabarczyk, Paweł
 
 # Username (this should match the folder name)
 authors:

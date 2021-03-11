@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mike Hyslop Graham
+title: Graham, Mike Hyslop
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Djordje Grbic
+title: Grbic, Djordje
 
 # Username (this should match the folder name)
 authors:

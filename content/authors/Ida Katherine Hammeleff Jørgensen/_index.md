@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ida Katherine Hammeleff Jørgensen
+title: Jørgensen, Ida Katherine Hammeleff
 
 # Username (this should match the folder name)
 authors:

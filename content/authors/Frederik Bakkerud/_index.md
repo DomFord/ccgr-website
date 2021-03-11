@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Frederik Bakkerud
+title: Bakkerud, Frederik
 
 # Username (this should match the folder name)
 authors:

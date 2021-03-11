@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Paolo Burelli
+title: Burelli, Paolo
 
 # Username (this should match the folder name)
 authors:
