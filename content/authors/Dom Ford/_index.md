@@ -5,7 +5,7 @@ organizations:
 superuser: true
 authors:
   - Dom Ford
-title: Dom Ford
+title: Ford, Dom
 role: PhD Fellow
 bio: I'm particularly interested in myth, monsters, spatiality and the
   representation and depiction of history and the past (both real and fictional
