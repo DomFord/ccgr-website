@@ -16,7 +16,7 @@ weight: 01
 title:
 subtitle:
 
-#design:
+design:
  columns: "1"
 
 
