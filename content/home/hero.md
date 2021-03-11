@@ -38,17 +38,18 @@ hero_media = "logo.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
+  url = ""
+  label = ""
+  icon_pack = ""
+  icon = ""
 
 [cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+  url = ""
+  label = ""
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+  label = ''
+
 +++
 
