@@ -16,14 +16,16 @@ weight: 01
 title:
 subtitle:
 
-design:
-  columns: "1"
-  background:
-    image: logo.png
-    image_darken: 0
-​    image_parallax: false
-​    image_position: center
-​    image_size: contain
-​    text_color_light: true
+#design:
+ # columns: "1"
+  #background:
+   # image: logo.png
+   # image_darken: 0
+​   # image_parallax: false
+​   # image_position: center
+​   # image_size: contain
+​   # text_color_light: true
 
 ---
+
+{{< figure src="logo.png" >}}
