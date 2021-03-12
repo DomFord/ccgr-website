@@ -9,6 +9,16 @@
 .people-widget .portrait-title h3 {
 	font-size: 0.8rem !important;
 	}
+		
+.people-widget .avatar {
+	width: 100%;
+	max-width 300px;
+	height: auto;
+	}
+
+.people-widget .mb-4 {
+	display: none;
+	}
 
 @media (min-width: 992px) {
 	.people-widget .col-sm-auto {
@@ -18,8 +28,4 @@
 
 .project-widget-simple h1 {
 	text-align: left !important;
-	}
-
-.people-widget .mb-4 {
-	display: none;
 	}
