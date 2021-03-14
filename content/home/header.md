@@ -18,7 +18,8 @@ subtitle:
 
 design:
  columns: "1"
- background: logo.png
+ background:
+  image: logo.png
   image_size: cover
   image_position: center
 
