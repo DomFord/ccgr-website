@@ -22,4 +22,4 @@ design:
 
 ---
 Welcome
-{{< figure src="assets/images/logo.png" caption="Logo" >}}
+{{< figure src="assets/images/test.png" caption="Logo" >}}
