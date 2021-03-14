@@ -20,7 +20,7 @@ design:
  columns: "1"
  background:
   image: logo.png
-  image_size: actual
+  image_size: contain
   image_position: center
 
 ---
