@@ -1,25 +1,27 @@
++++
+# Hero widget.
+widget = "hero"
+active = true
+date = 2017-10-15T00:00:00
 
----
-# An instance of the Blank widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: blank
+title = ""
 
-# Activate this widget? true/false
-active: true
+# Order that this section will appear in.
+weight = 3
 
-# This file represents a page section.
-headless: true
+# Overlay a color or image (optional).
+#   Deactivate an option by commenting out the line, prefixing it with `#`.
+[header]
+  overlay_color = ""  # An HTML color value.
+  overlay_img = "logo.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
-# Order that this section appears on the page.
-weight: 01
+# Call to action button (optional).
+#   Activate the button by specifying a URL and button label below.
+#   Deactivate by commenting out parameters, prefixing lines with `#`.
+[cta]
+  url = ""
+  label = ""
++++
 
-title:
-subtitle:
-
-design:
- columns: "1"
-
-
----
-
-{{< figure src="assets/images/logo.png" caption="Logo" >}}
+<div style="height: 300px"></div>
