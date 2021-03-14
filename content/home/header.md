@@ -22,4 +22,4 @@ design:
 
 ---
 
-{{< figure src="logo.png" caption="" >}}
+{{< figure src="logo.png" caption="Logo" >}}
