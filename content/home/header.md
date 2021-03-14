@@ -21,5 +21,5 @@ design:
 
 
 ---
-
+Welcome
 {{< figure src="assets/images/logo.png" caption="Logo" >}}
