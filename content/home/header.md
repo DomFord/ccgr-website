@@ -13,7 +13,7 @@ weight = 3
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
   overlay_color = ""  # An HTML color value.
-  overlay_img = "assets/images/logo.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "logo.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
