@@ -18,8 +18,8 @@ subtitle:
 
 design:
  columns: "1"
-
+ background: logo.png
+  image_size: cover
+  image_position: center
 
 ---
-Welcome
-{{< figure src="assets/images/test.png" caption="Logo" >}}
