@@ -1,6 +1,6 @@
 
 ---
-# An instance of the Blank widget.
+# The header image for the site. The current big logo is more a placeholder for a new logo or better landing image.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: blank
 
