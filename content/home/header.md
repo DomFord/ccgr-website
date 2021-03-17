@@ -22,6 +22,7 @@ design:
   image: logo.png
   image_size: contain
   image_position: center
+  image_parallax: false
 
 ---
 
