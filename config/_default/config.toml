@@ -106,7 +106,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 # Date confirguration.
 [frontmatter]
-  date = ["publishDate"]
+  date = ["date", "publishDate"]
+  publishDate = ["publishDate", "date"]
 
 # Install Wowchemy
 [module]
