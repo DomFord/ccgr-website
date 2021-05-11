@@ -14,6 +14,8 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
+- name: Creative AI Lab
+  url: "/groups/creativeai"
 - name: IT University of Copenhagen
   url: "https://www.itu.dk/"
 

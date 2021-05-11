@@ -1,5 +1,6 @@
 # IDEs
 .idea/
+.vscode/
 
 # Hugo
 /resources/
@@ -7,3 +8,6 @@ public/
 
 # MacOS
 .DS_Store
+
+# WIP
+pure_integration/
