@@ -72,6 +72,7 @@ email: ""
 user_groups:
 - Professors
 - CCGR Members
+- Creative AI Lab
 ---
 
 Current research interests: Live game operations, Imitation Learning, Player Modelling, Churn Prediction and Customer Lifetime Value Prediction.

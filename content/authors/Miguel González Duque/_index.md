@@ -73,6 +73,7 @@ email: ""
 user_groups:
 - PhD Students
 - CCGR Members
+- Creative AI Lab
 ---
 
 Current research interests: Bayesian Statistics, Generative models, Procedural Content Generation and Computer Art.

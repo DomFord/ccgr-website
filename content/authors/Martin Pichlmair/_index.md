@@ -78,6 +78,7 @@ email: ""
 user_groups:
 - Professors
 - CCGR Members
+- Creative AI Lab
 ---
 
 Current research interests: Design Thinking, Design Methods, Gameplay and Simulation, Experimental Design, Game Design

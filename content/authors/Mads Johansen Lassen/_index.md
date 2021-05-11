@@ -65,6 +65,7 @@ email: ""
 user_groups:
 - PhD Students
 - CCGR Members
+- Creative AI Lab
 ---
 
 Describing and generating elusive game properties such as Game Feel, Juiciness and Friction in prototypes. What reinforcement learning on games, can teach us about games.

@@ -1,43 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Creative AI"
-summary: ""
-authors: [Sebastian Risi]
-tags: []
-categories: []
-date: 2021-01-01T12:49:51+01:00
-
-# Optional external URL for project (replaces project detail page).
-# external_link: "https://charming-etn.eu/"
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
+type: "widget_page"
+authors:
+- Sebastian Risi
+- Miguel González Duque
+- Djordje Grbic
+- Henrique Galvan Debarba
+- Joachim Winther Pedersen
+- Katt Walker
+- Mads Johansen Lassen
+- Martin Pichlmair
+- Mathias Kristian Kyndlo Löwe
+- Paolo Burelli
+- Rasmus Berg Palm
+- Rosemary Lee
 ---
 
-Creative AI Cluster.

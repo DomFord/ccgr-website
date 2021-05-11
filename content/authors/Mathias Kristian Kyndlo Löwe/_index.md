@@ -67,6 +67,7 @@ email: ""
 user_groups:
 - PhD Students
 - CCGR Members
+- Creative AI Lab
 ---
 
 Current research interests: Variational autoencoders, generative models, and mixture models for timeseries datasets.
