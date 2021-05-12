@@ -24,10 +24,10 @@ bio: My work focuses on applications of Bayesian Statistics.
 
 interests:
 - Machine Learning and AI
-- Statistical Modeling
-- Bayesian Statistics
-- Real-time strategy games
-- Dynamic Difficulty Adjustment
+- Bayesian Modeling
+- Adaptive technologies
+- Generative Models
+- Differential Geometry
 
 #education:
   #courses:
@@ -76,4 +76,4 @@ user_groups:
 - Creative AI Lab
 ---
 
-Current research interests: Bayesian Statistics, Generative models, Procedural Content Generation and Computer Art.
+I started my PhD in Oct. of 2019 under the supervision of Sebastian Risi. My PhD focuses on applications of Bayesian Optimization (and other forms of modelling) to adapting content for users and bots.
