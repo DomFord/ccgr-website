@@ -18,7 +18,7 @@ organizations:
   url: "https://www.itu.dk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "Current research interests: digital images, artificial intelligence, algorithmic media, representation, cybernetics. digital images, artificial intelligence, algorithmic media, representation, cybernetics."
 
 interests:
 - Media and communication
@@ -67,7 +67,6 @@ email: ""
 user_groups:
 - PhD Students
 - CCGR Members
-- Creative AI Lab
 ---
 
 Current research interests: digital images, artificial intelligence, algorithmic media, representation, cybernetics.

@@ -28,6 +28,7 @@ interests:
 - Probabilistic Modelling
 - Graph Neural Networks
 - Model Based Reinforcement Learning
+- Generative Models
 
 # Education to show in About widget
 # education:
