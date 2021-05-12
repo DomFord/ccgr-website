@@ -1,5 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
+title: "Creative AI Lab"
 type: "widget_page"
 authors:
 - Sebastian Risi
@@ -13,6 +14,6 @@ authors:
 - Mathias Kristian Kyndlo Löwe
 - Paolo Burelli
 - Rasmus Berg Palm
-- Rosemary Lee
+- Elías Najarro
 ---
 

@@ -76,7 +76,7 @@ email: ""
 user_groups:
 - Professors
 - CCGR Members
-- Creative AI Lab
+- Creative AI Lab Director
 ---
 
 My research interests include biologically-inspired computation such as evolutionary robotics, self-organizing systems, indirect encodings like [HyperNEAT](http://eplex.cs.ucf.edu/hyperNEATpage/), and design automation.
