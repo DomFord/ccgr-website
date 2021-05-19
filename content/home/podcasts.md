@@ -76,5 +76,5 @@ subtitle = ""
  css_class = ""
 +++
 
-<iframe src="https://anchor.fm/itu-games-research/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/itu-games-research/embed" height="204px" width="800px" frameborder="0" scrolling="no"></iframe>
 
