@@ -20,10 +20,12 @@ organizations:
   url: "https://www.itu.dk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Working on self-driving vehicle safety.
 
 interests:
-- Lorem ipsum
+- Evolutionary Algorithms
+- Reinforcement Learning
+- Safety in AI
 
 #education:
   #courses:
@@ -66,5 +68,4 @@ user_groups:
 - Creative AI Lab
 ---
 
-My research interests include biologically-inspired computation such as evolutionary robotics, self-organizing systems, indirect encodings like [HyperNEAT](http://eplex.cs.ucf.edu/hyperNEATpage/), and design automation.
- I am also interested in research at the intersection of AI and games, which can make our technologies accessible to a broader audience. To this end, I am currently leading the development of a new evolutionary content-generating Facebook game called [Petalz](https://apps.facebook.com/petalzgame/).
+I finished a computer science master's degree at the University of Zagreb where I worked on the application of AI to the university exam scheduling for my master thesis. After the master's, I moved to Switzerland to complete my Ph.D. in the application of AI to evolutionary biology. Currently, I am doing my postdoc at the IT University of Copenhagen where I'm on an international DARPA project concerning self-driving vehicle safety. At the ITU I was in charge of two courses on the master's program.
