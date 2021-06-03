@@ -26,6 +26,7 @@ interests:
 - Evolutionary Algorithms
 - Reinforcement Learning
 - Safety in AI
+- Artificial Life
 
 #education:
   #courses:
