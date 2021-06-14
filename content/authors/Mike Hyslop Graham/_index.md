@@ -18,22 +18,27 @@ organizations:
   url: "https://www.itu.dk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently conducting ethnographic research in which the single-player play-practise is investigated from a perspective of learning and identity development
 
 interests:
-- Lorem ipsum
+- Single-player play-practises
+- Leaning Theory 
+- Play and identity
+- Games, play and learning
+- Sociality and culture in digital games and play 
+- Ethnographic methods
 
-#education:
-  #courses:
-  #- course: PhD in Artificial Intelligence
-    #institution: Stanford University
-    #year: 2012
-  #- course: MEng in Artificial Intelligence
-    #institution: Massachusetts Institute of Technology
-    #year: 2009
-  #- course: BSc in Artificial Intelligence
-    #institution: Massachusetts Institute of Technology
-    #year: 2008
+education:
+  courses:
+  - course: PhD in Games Studies
+    institution: IT University of Copenhagen
+    year: 2023 (expected)
+  - course: M.Sc. in Games
+    institution: IT University of Copenhagen
+    year: 2020
+  - course: Bachelor’s Degree Programme of Physiotherapy
+    institution: University College Capital
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,5 +68,5 @@ user_groups:
 - CCGR Members
 ---
 
-My research interests include biologically-inspired computation such as evolutionary robotics, self-organizing systems, indirect encodings like [HyperNEAT](http://eplex.cs.ucf.edu/hyperNEATpage/), and design automation.
- I am also interested in research at the intersection of AI and games, which can make our technologies accessible to a broader audience. To this end, I am currently leading the development of a new evolutionary content-generating Facebook game called [Petalz](https://apps.facebook.com/petalzgame/).
+As a PhD Fellow at the IT University of Copenhagen I am currently conducting ethnographic research in which the single-player play-practise is investigated from a perspective of learning and identity development. 
+I have a somewhat varied background ranging from physical therapy, pedagogical management and teaching, and most recently a MSc degree within Games Studies. I believe this may offer an unusual point of entry into the understanding of players and their play practises, as I work primarily in a holistic view with the sociocultural frame of play and digital games as a part of players’ understanding and experiencing themselves and their life-worlds through learning processes and learning experiences. 
