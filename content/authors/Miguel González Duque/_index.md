@@ -20,12 +20,10 @@ organizations:
   url: "https://www.itu.dk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My work focuses on applications of Bayesian Statistics.
+bio: My work focuses on applications of Bayesian Statistics, Generative Modelling and Differential Geometry.
 
 interests:
-- Machine Learning and AI
-- Bayesian Modeling
-- Adaptive technologies
+- Bayesian Statistics
 - Generative Models
 - Differential Geometry
 
@@ -76,4 +74,4 @@ user_groups:
 - Creative AI Lab
 ---
 
-I started my PhD in Oct. of 2019 under the supervision of Sebastian Risi. My PhD focuses on applications of Bayesian Optimization (and other forms of modelling) to adapting content for users and bots.
+I started my PhD in Oct. of 2019 under the supervision of Sebastian Risi. My PhD focuses on applications of Bayesian Optimization (and other forms of modelling) to adapting content for users and bots. I am also researching how this content could be automatically generated using Deep Generative Models (e.g. VAEs).
