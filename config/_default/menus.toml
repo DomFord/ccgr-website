@@ -6,7 +6,7 @@
 [[main]]
   name = "Podcasts"
   url = "#Podcasts"
-  weight = 05
+  weight = 5
 
 [[main]]
   name = "Watch"
