@@ -22,10 +22,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Game ontology
-- Self-reflection and subversion in mainstream games
-- Transmedia and adaptation strategies
-- Comics studies
-- Literary and media theory
+- Self-referentiality and meta-referentiality 
+- Ecocritical approaches to games 
+- Comic-Games and Game-Comics
+- Game Characters
+- Game Spatiality
+- Narrative theory and Media theory
+
 
 #education:
   #courses:
@@ -67,4 +70,4 @@ user_groups:
 - CCGR Members
 ---
 
-My main research interest is the aesthetic capacity of digital games, particularly their inherent potential for self-thematization and -reflection. To this end, I find myself frequently confronted with fundamental questions of reasoning, cognition, and knowledge formation. Building on media history and narratology, my method generally strives to integrate a structurally sound understanding of games in their ontological complexity with in-depth studies of apparatuses and discourse formations in a Foucauldian tradition.
+My academic background is originally in Comparative Literature and Media Studies, and my research interests always involve a component of comparative method and media theory. The majority of my research is in humanistic game studies and intermedia research, particularly involving games, comic books, film, and literature.
