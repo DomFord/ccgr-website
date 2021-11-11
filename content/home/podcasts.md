@@ -1,15 +1,15 @@
 +++
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+headless = false  # This file represents a page section.
+active = false  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = "Podcasts"
 subtitle = ""
 
 [content]
-  # Page type to display. E.g. project.
+  # Page type to display. E.g. project. 
   page_type = "podcast"
 
   # Filter toolbar (optional).
@@ -75,6 +75,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-<iframe src="https://anchor.fm/itu-games-research/embed" height="204px" width="800px" frameborder="0" scrolling="no"></iframe>
 

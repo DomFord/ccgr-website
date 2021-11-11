@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 7  # Order that this section will appear.
 
-title = "Videos"
+title = "Media"
 subtitle = ""
 
 [content]
@@ -77,3 +77,4 @@ subtitle = ""
 
 +++
 
+<iframe src="https://anchor.fm/itu-games-research/embed" height="204px" width="800px" frameborder="0" scrolling="no"></iframe>
