@@ -62,7 +62,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Students
-- CCGR Members
+- CCGR Former
 ---
 
 Research interests include the Production of meaning and presence in playful experiences, Museum Games, Art and Games, Posthumanism, Critical Play, Design Methods, Post-apocalyptic games, Monsters and the Sublime

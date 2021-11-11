@@ -74,4 +74,4 @@ user_groups:
 - CCGR Members
 ---
 
-Lorem ipsum.
+I work in the field of analytic philosophy. My main interests in philosophy are: philosophy of language and philosophy of mind. Since 2012 I started to work in game studies research. Here I am mostly interested in game ontologies and the connections between games, virtual worlds and philosophy of mind. I am also interested in demoscene research.

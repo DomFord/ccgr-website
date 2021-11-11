@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 07
+weight: 50
 
 title:
 subtitle:
@@ -30,7 +30,11 @@ design:
 
 # Master's Education
 
-Our two-year MSc programme in Games provides you with technical and social science knowledge on how computer games work, how they are designed and how they have a social impact on us. You will work with some of the world’s leading game researchers, and you will have the opportunity to become a computer games expert yourself. We currently offer two tracks: Game Technology, with a focus on programming, and Game Design and Theory.
+Our two year MSc in Games offers the chance to become a game creator of the future. Based on a solid foundation of creative, technical, social, and analytical competences, you will realize the playful experiences of tomorrow. By understanding the complex creative process of game production, and how interdisciplinary teams work together, students are able to make a difference in any project that uses game technology or playful design.
+
+The MSc in Games provides theoretical, practical, and technical knowledge on how computer games are made, how they create meaning, and how they socially impact us. Students work with some of the world’s leading games researchers, explore cutting edge technologies for their playful potential, and become experts in how to realize creative projects in interdisciplinary teams. Students learn how to use design methods, analytical tools, critical thinking, and scientific research to drive innovation.
+
+The Games Programme has a Technology Track that builds on a computers science bachelor and a Design Track that focusses on game design, theory, and production processes in creative projects.
 
 More information about the games programme can be found [here](http://en.itu.dk/Programmes/MSc-Programmes/Games).
 

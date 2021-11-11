@@ -71,4 +71,4 @@ user_groups:
 - CCGR Members
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My current research concerns ideological, narrative, semiotic and ontological aspects of games and game communication, as well as topics such as game addiction, games and meaning, and also digital literature culture and aesthetics (what some people used to call "new media" 15-20 years ago).

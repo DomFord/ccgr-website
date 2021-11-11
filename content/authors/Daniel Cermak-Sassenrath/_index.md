@@ -75,4 +75,4 @@ user_groups:
 - CCGR Members
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Daniel writes, composes, codes, builds, performs and plays. He is interested in artistic, analytic, explorative, critical and subversive approaches to and practices of play.

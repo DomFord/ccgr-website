@@ -81,4 +81,4 @@ user_groups:
 - Creative AI Lab
 ---
 
-Current research interests: Design Thinking, Design Methods, Gameplay and Simulation, Experimental Design, Game Design
+I create experimental games and write about game feel design and the game design process. I am interested in the playful application and design impact of new technologies, currently mostly machine learning and procedural content generation. I love card games and cooking.

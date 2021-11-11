@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false # Activate this when we have PURE integration sorted.
-weight = 5  # Order that this section will appear.
+weight = 13  # Order that this section will appear.
 
 title = "Featured Publications"
 subtitle = "Five recent publications from CCGR researchers."

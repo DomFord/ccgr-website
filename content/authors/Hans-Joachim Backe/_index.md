@@ -67,4 +67,4 @@ user_groups:
 - CCGR Members
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My main research interest is the aesthetic capacity of digital games, particularly their inherent potential for self-thematization and -reflection. To this end, I find myself frequently confronted with fundamental questions of reasoning, cognition, and knowledge formation. Building on media history and narratology, my method generally strives to integrate a structurally sound understanding of games in their ontological complexity with in-depth studies of apparatuses and discourse formations in a Foucauldian tradition.
