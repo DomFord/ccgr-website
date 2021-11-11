@@ -21,18 +21,15 @@ organizations:
   url: "https://www.itu.dk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a game design researcher and practitioner.
 
 interests:
-- Game design
-- Interaction design
-- Design theory and practice
-- Making
-- Indie gaming
-- Entrepreneurship
-- Game technologies
-- VR
-- Simulation
+- Game and play design
+- Game Feel
+- Design Theory and Design Processes
+- Machine Learning for Game Design
+- Entrepreneurship and Business
+- Connecting Games and Reality
 
 #education:
   #courses:
@@ -81,4 +78,4 @@ user_groups:
 - Creative AI Lab
 ---
 
-I create experimental games and write about game feel design and the game design process. I am interested in the playful application and design impact of new technologies, currently mostly machine learning and procedural content generation. I love card games and cooking.
+I am an academic, game designer, researcher, and former media artist interested in the essence of play and its relation to the condition of humanity. I create experimental games and write about game feel design and the game design process. I am interested in the playful application and design impact of new technologies, currently mostly machine learning and procedural content generation. I love card games and cooking.
