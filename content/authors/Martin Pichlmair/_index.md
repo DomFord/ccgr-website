@@ -81,4 +81,4 @@ user_groups:
 - Creative AI Lab
 ---
 
-I create experimental games and write about game feel design and the game design process. I am interested in the playful application and design impact of new technologies, currently mostly machine learning and procedural content generation. I love card games and cooking.
+I am an academic, game designer, researcher, and former media artist interested in the essence of play and its relation to the condition of humanity. I create experimental games and write about game feel design and the game design process. I am interested in the playful application and design impact of new technologies, currently mostly machine learning and procedural content generation. I love card games and cooking.
