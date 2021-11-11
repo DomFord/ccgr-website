@@ -23,14 +23,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Theories of play
-- Art and play
-- Phenomenology
-- Embodied interaction
-- Tangible interfaces
-- Game design
-- Design patterns
-- Transmedia
+- Borders of play, overlaps and tensions between play and everyday life
+- Artistic, analytic, explorative, critical and subversive approaches to and practices of play
+- Games and playful installations, hardware interfaces and controllers, electronics
 
 #education:
   #courses:
@@ -75,4 +70,4 @@ user_groups:
 - CCGR Members
 ---
 
-Daniel writes, composes, codes, builds, performs and plays. He is interested in artistic, analytic, explorative, critical and subversive approaches to and practices of play.
+Daniel runs the University's monthly workshop series which is about electronics, mechanics, alchemy, interface devices and dangerous things. In his own practice, he creates interactive artefacts which are shown at art exhibitions, academic conferences and popular events. Daniel is author of a monograph about play as a perspective in everyday computer use (transcript, 2010), and editor of a volume on the playful disruption of digital media (Springer, 2018). More info is available at [dace.de](http://dace.de).

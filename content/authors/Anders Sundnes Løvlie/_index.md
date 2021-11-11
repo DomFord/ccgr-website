@@ -75,5 +75,3 @@ user_groups:
 - CCGR Members
 ---
 
-My research interests include biologically-inspired computation such as evolutionary robotics, self-organizing systems, indirect encodings like [HyperNEAT](http://eplex.cs.ucf.edu/hyperNEATpage/), and design automation.
- I am also interested in research at the intersection of AI and games, which can make our technologies accessible to a broader audience. To this end, I am currently leading the development of a new evolutionary content-generating Facebook game called [Petalz](https://apps.facebook.com/petalzgame/).

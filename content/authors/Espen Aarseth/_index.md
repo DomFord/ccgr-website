@@ -23,7 +23,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Ontological understanding of games
+- Game ontologies
 - Games and narrative
 - Games and addiction
 - Games and geographical space
