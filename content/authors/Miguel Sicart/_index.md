@@ -18,13 +18,16 @@ organizations:
   url: "https://www.itu.dk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Miguel Sicart studies play.
 
 interests:
-- Ethics and game design
-- Game design (theory)
-- Computer games as arts
-- Game aesthetics
+- Digital play
+- Ethics
+- Playful Critical Technical Practice
+- Artificial Intelligence
+- Ridiculous Software
+- Playable Media
+- Football/Soccer
 
 #education:
   #courses:
@@ -66,4 +69,4 @@ user_groups:
 - CCGR Members
 ---
 
-I write and teach about the design and culture of playable media.
+Miguel Sicart studies play.
