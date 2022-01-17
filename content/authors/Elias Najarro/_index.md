@@ -9,8 +9,8 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: Research Assistant
-user_groups: ["Research Assistants", "CCGR Members", "Creative AI Lab"]
+role: PhD Student
+user_groups: ["PhD Students", "CCGR Members", "Creative AI Lab"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -78,7 +78,7 @@ email: ""
 highlight_name: false
 ---
 
-Elias Najarro is a research assistant at the Robotics, Evolution and Art Laboratory (REAL) Group of Digital Design department at IT University of Copenhagen, Denmark.
+Elias Najarro is a PhD student at the Robotics, Evolution and Art Laboratory (REAL) Group of Digital Design department at IT University of Copenhagen, Denmark.
 
 <!-- He's currently working on neuro-inspired meta-learning and Open-Endedness. -->
 
@@ -87,7 +87,3 @@ Elias Najarro is a research assistant at the Robotics, Evolution and Art Laborat
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
-
-
-
-
