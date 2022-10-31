@@ -66,8 +66,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Students
-- CCGR Members
-- Creative AI Lab
+- CCGR Former
+- Creative AI Lab Former
 ---
 
 Current research interests: Variational autoencoders, generative models, and mixture models for timeseries datasets.

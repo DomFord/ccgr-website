@@ -10,7 +10,7 @@ superuser: false
 
 # Role/position/tagline
 role: Postdoc
-user_groups: ["CCGR Members", "Postdoctoral Researchers", "Creative AI Lab"]
+user_groups: ["CCGR Former", "Creative AI Lab Former"]
 
 # Organizations/Affiliations to show in About widget
 organizations:

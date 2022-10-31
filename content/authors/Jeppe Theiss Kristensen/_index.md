@@ -67,7 +67,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Students
-- CCGR Members
+- CCGR Former
 ---
 
 Current research interests: Player modelling, churn prediction, reinforcement learning for player agents in mobile casual games
