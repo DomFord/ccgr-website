@@ -1,6 +1,6 @@
 ---
 # Display name
-title: González Duque, Miguel
+title: González-Duque, Miguel
 
 # Username (this should match the folder name)
 authors:
